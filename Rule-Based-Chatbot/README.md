@@ -27,7 +27,7 @@ A smart conversational chatbot built using Python that can answer various questi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/CODSOFT.git
+git clone https://github.com/Shahil-hub/CODSOFT.git
 cd CODSOFT
 ```
 
@@ -97,8 +97,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have questions or suggestions!
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [https://github.com/Shahil-hub]
+- LinkedIn: [www.linkedin.com/in/shahil-ali-956138318]
 
 ---
 
