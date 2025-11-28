@@ -41,7 +41,7 @@ cd Task-1-Chatbot
 python chatbot.py
 ```
 
-[➡️ View Detailed Documentation](./Task-1-Chatbot/README.md)
+[➡️ View Detailed Documentation](./Rule-Based-Chatbot/README.md)
 
 ---
 
