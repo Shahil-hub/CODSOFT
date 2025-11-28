@@ -52,7 +52,7 @@ Type `bye` to exit the chatbot.
 ## 📸 Sample Conversation
 
 ```
-Chatbot: Hey! I'm your upgraded smart chatbot. Ask me anything! Type 'bye' to exit.
+Chatbot: Hey! I'm your Rule Based chatbot. Ask me anything! Type 'bye' to exit.
 
 You: Who is the richest person?
 Chatbot: The richest person on earth is Elon Musk with an estimated net worth of around $497 billion. Do you want to know about his companies?
