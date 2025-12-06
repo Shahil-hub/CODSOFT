@@ -18,7 +18,7 @@ This repository contains all the projects I completed during my **AI Internship 
 | Task | Project Name | Description | Technologies |
 |------|--------------|-------------|--------------|
 | **Task 1** | [Rule-Based-Chatbot](./Rule-Based-Chatbot/Chatbot.py) | An interactive conversational chatbot using pattern matching | Python, Regex |
-| **Task 2** | [Project Name](./Task-2-Project-Name/) | Brief description of Task 2 | Python, [Libraries] |
+| **Task 2** | [Project Name](./Tic-Tac-Toe-AI-Game/Tic-Tac-Toe.py) | Brief description of Task 2 | Python, [Libraries] |
 | **Task 3** | [Project Name](./Task-3-Project-Name/) | Brief description of Task 3 | Python, [Libraries] |
 | **Task 4** | [Project Name](./Task-4-Project-Name/) | Brief description of Task 4 | Python, [Libraries] |
 
