@@ -18,9 +18,8 @@ This repository contains all the projects I completed during my **AI Internship 
 | Task | Project Name | Description | Technologies |
 |------|--------------|-------------|--------------|
 | **Task 1** | [Rule-Based-Chatbot](./Rule-Based-Chatbot/Chatbot.py) | An interactive conversational chatbot using pattern matching | Python, Regex |
-| **Task 2** | [Tic-Tac-Toe-AI-Game](./Tic-Tac-Toe-AI-Game/Tic-Tac-Toe.py) | Brief description of Task 2 | Python, [Libraries] |
+| **Task 2** | [Tic-Tac-Toe-AI-Game](./Tic-Tac-Toe-AI-Game/Tic-Tac-Toe.py) | An AI TicTacToe Game using Minimax,Alpha-Beta Pruning | Python, Colorama,Tabulate] |
 | **Task 3** | [Project Name](./Task-3-Project-Name/) | Brief description of Task 3 | Python, [Libraries] |
-| **Task 4** | [Project Name](./Task-4-Project-Name/) | Brief description of Task 4 | Python, [Libraries] |
 
 ---
 
@@ -45,7 +44,7 @@ python chatbot.py
 
 ---
 
-## 📊 Task 2: [Project Name]
+## 📊 Task 2: [Tic-Tac-Toe-AI]
 
 [Brief description of what this project does]
 
@@ -60,7 +59,7 @@ cd Task-2-Project-Name
 python main.py
 ```
 
-[➡️ View Detailed Documentation](./Task-2-Project-Name/README.md)
+[➡️ View Detailed Documentation](./Tic-Tac-Toe-AI-Game/README.md)
 
 ---
 
@@ -130,40 +129,6 @@ cd Task-1-Chatbot
 3. **Install dependencies** (if required)
 ```bash
 pip install -r requirements.txt
-```
-
-4. **Run the project**
-```bash
-python [main_file].py
-```
-
-## 📂 Repository Structure
-
-```
-CODSOFT/
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── Task-1-Chatbot/
-│   ├── README.md
-│   ├── chatbot.py
-│   └── screenshots/
-│
-├── Task-2-Project-Name/
-│   ├── README.md
-│   ├── [code files]
-│   └── screenshots/
-│
-├── Task-3-Project-Name/
-│   ├── README.md
-│   ├── [code files]
-│   └── screenshots/
-│
-└── Task-4-Project-Name/
-    ├── README.md
-    ├── [code files]
-    └── screenshots/
 ```
 
 ## 📈 Key Learnings
