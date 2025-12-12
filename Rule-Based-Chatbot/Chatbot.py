@@ -1,7 +1,7 @@
 import re
 from datetime import datetime
 
-print("Chatbot: Hey! I’m your upgraded smart chatbot. Ask me anything! Type 'bye' to exit.\n")
+print("Chatbot: Hey! I’m your RULE-BASED-Chatbot. Ask me anything! Type 'bye' to exit.\n")
 
 def add_question(response, question):
     return f"{response} {question}"
