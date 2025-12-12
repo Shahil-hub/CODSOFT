@@ -19,7 +19,7 @@ This repository contains all the projects I completed during my **AI Internship 
 |------|--------------|-------------|--------------|
 | **Task 1** | [Rule-Based-Chatbot](./Rule-Based-Chatbot/Chatbot.py) | An interactive conversational chatbot using pattern matching | Python, Regex |
 | **Task 2** | [Tic-Tac-Toe-AI-Game](./Tic-Tac-Toe-AI-Game/Tic-Tac-Toe.py) | An AI TicTacToe Game using Minimax,Alpha-Beta Pruning | Python, Colorama,Tabulate] |
-| **Task 3** | [Project Name](./Task-3-Project-Name/) | Brief description of Task 3 | Python, [Libraries] |
+| **Task 3** | [Image-Captioning-AI](./Image-captioniing/image_caption.py) | Brief description of Task 3 | Python, [Libraries] |
 
 ---
 
@@ -46,7 +46,7 @@ python chatbot.py
 
 ## 📊 Task 2: [Tic-Tac-Toe-AI]
 
-[Brief description of what this project does]
+[An AI tic-tac-toe game which can be played between Humans & AI]
 
 ### Features
 - Feature 1
@@ -63,9 +63,9 @@ python main.py
 
 ---
 
-## 🎯 Task 3: [Project Name]
+## 🎯 Task 3: [Image-Captioning-AI]
 
-[Brief description of what this project does]
+[An Image-Captioning ai]
 
 ### Features
 - Feature 1
@@ -78,28 +78,10 @@ cd Task-3-Project-Name
 python main.py
 ```
 
-[➡️ View Detailed Documentation](./Task-3-Project-Name/README.md)
+[➡️ View Detailed Documentation](./Image-captioning/README.md)
 
 ---
 
-## 🔮 Task 4: [Project Name]
-
-[Brief description of what this project does]
-
-### Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-### Quick Start
-```bash
-cd Task-4-Project-Name
-python main.py
-```
-
-[➡️ View Detailed Documentation](./Task-4-Project-Name/README.md)
-
----
 
 ## 🛠️ Technologies Used
 
