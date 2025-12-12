@@ -247,7 +247,7 @@ This project is created as part of CODSOFT internship and is available for educa
 
 ## 👤 Author
 
-**Your Name**  
+**SHAHIL ALI**  
 CODSOFT Intern - Task 3  
 Connect with me: (Linkedin)[www.linkedin.com/in/shahil-ali-956138318]| (github)[https://github.com/Shahil-hub]
 
