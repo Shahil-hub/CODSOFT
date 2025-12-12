@@ -19,7 +19,7 @@ This repository contains all the projects I completed during my **AI Internship 
 |------|--------------|-------------|--------------|
 | **Task 1** | [Rule-Based-Chatbot](./Rule-Based-Chatbot/Chatbot.py) | An interactive conversational chatbot using pattern matching | Python, Regex |
 | **Task 2** | [Tic-Tac-Toe-AI-Game](./Tic-Tac-Toe-AI-Game/Tic-Tac-Toe.py) | An AI TicTacToe Game using Minimax,Alpha-Beta Pruning | Python, Colorama,Tabulate] |
-| **Task 3** | [Image-Captioning-AI](./Image-captioning/image_caption.py) | Brief description of Task 3 | Python, [Libraries] |
+| **Task 3** | [Image-Captioning-AI](./Image-captioning/image_caption.py) | An AI-powered image captioning system that automatically generates natural language descriptions for images using Vision Transformer (ViT) and GPT-2| Python, [Libraries] |
 
 ---
 
@@ -65,7 +65,7 @@ python main.py
 
 ## 🎯 Task 3: [Image-Captioning-AI]
 
-[An Image-Captioning ai]
+[An Image-Captioning ai An AI-powered image captioning system that automatically generates natural language descriptions for images using Vision Transformer (ViT) and GPT-2]
 
 ### Features
 - ✅ Automatic caption generation for any image
@@ -77,8 +77,8 @@ python main.py
 
 ### Quick Start
 ```bash
-cd Task-3-Project-Name
-python main.py
+cd Task-3-Image-Captioning-Ai
+python image_caption.py
 ```
 
 [➡️ View Detailed Documentation](./Image-captioning/README.md)
