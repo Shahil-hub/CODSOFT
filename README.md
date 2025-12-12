@@ -47,12 +47,6 @@ python chatbot.py
 ## 📊 Task 2: [Tic-Tac-Toe-AI]
 
 [An AI tic-tac-toe game which can be played between Humans & AI]
-
-### Features
-- Feature 1
-- Feature 2
-- Feature 3
-
 ### Quick Start
 ```bash
 cd Task-2-Project-Name
