@@ -19,7 +19,7 @@ This repository contains all the projects I completed during my **AI Internship 
 |------|--------------|-------------|--------------|
 | **Task 1** | [Rule-Based-Chatbot](./Rule-Based-Chatbot/Chatbot.py) | An interactive conversational chatbot using pattern matching | Python, Regex |
 | **Task 2** | [Tic-Tac-Toe-AI-Game](./Tic-Tac-Toe-AI-Game/Tic-Tac-Toe.py) | An AI TicTacToe Game using Minimax,Alpha-Beta Pruning | Python, Colorama,Tabulate] |
-| **Task 3** | [Image-Captioning-AI](./Image-captioniing/image_caption.py) | Brief description of Task 3 | Python, [Libraries] |
+| **Task 3** | [Image-Captioning-AI](./Image-captioning/image_caption.py) | Brief description of Task 3 | Python, [Libraries] |
 
 ---
 
@@ -68,9 +68,12 @@ python main.py
 [An Image-Captioning ai]
 
 ### Features
-- Feature 1
-- Feature 2
-- Feature 3
+- ✅ Automatic caption generation for any image
+- ✅ Support for multiple image formats (JPG, PNG, etc.)
+- ✅ Batch processing for multiple images
+- ✅ Clean, minimal output (no warnings)
+- ✅ CPU and GPU support
+- ✅ Fast inference (~2-3 seconds per image on CPU)
 
 ### Quick Start
 ```bash
