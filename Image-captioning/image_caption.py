@@ -1,7 +1,5 @@
 """
-CLEAN IMAGE CAPTIONING - NO WARNINGS VERSION
-=============================================
-This version shows only the results, no warnings or extra messages!
+IMAGE CAPTIONING 
 """
 
 # Suppress all warnings and messages
